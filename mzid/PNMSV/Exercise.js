@@ -1,4 +1,4 @@
-var navi = ["/2020/08/exercise-zone-persamaan-nilai-mutlak.html"];
+var navi = ["/2020/08/exercise-zone-persamaan-nilai-mutlak.html","https://www.matematikazone.id/2021/01/exercise-zone-persamaan-nilai-mutlak.html"];
 var pagi = document.getElementsByClassName("pagi");
 if(navi.length>1){
     document.getElementById("linknav1").classList.replace("d-none","d-block");
