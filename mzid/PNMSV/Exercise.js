@@ -16,4 +16,5 @@ function navke(berapa){
             document.getElementsByClassName("pagi")[indeks11].getElementsByTagName("li")[berapa-1].classList.add("active")
         }
     }
+    kasihin((berapa-1)*10+1);
 }
